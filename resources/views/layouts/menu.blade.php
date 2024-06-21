@@ -14,8 +14,8 @@
                                     <div class="info">
                                         <p class="pera">Call Anytime</p>
                                         <h4 class="title">
-                                            <a href="javascript:void(0)">
-                                                09 xx xxx xxx
+                                            <a href="tel:+95 9 883 311722">
+                                                +95 9 883 311722
                                             </a>
                                         </h4>
                                     </div>

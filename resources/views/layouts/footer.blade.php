@@ -73,10 +73,10 @@
                                         </a>
                                     </li>
                                     <li class="single-lsit">
-                                        <a href="#">
+                                        <a href="tel:+95 9 883 311722">
                                             <div class="d-flex gap-12">
                                                 <i class="ri-phone-line"></i>
-                                                +95 9 883 311722, +95 9 883 311 722
+                                                +95 9 883 311722, <br> +95 9 883 311 722
                                             </div>
                                         </a>
                                     </li>
